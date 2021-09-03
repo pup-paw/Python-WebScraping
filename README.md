@@ -9,7 +9,7 @@
   > 강의 : Inflearn | 나도코딩 | 파이썬 무료 강의 (활용편3) - 웹 스크래핑<br>
     목표 기간 : 2021/09/03 ~ 2021/09/17
 ### 🏃‍♂️How is it going?🏃‍♂️
-  > - [] 기본기 | [pygame_basics](https://github.com/pup-paw/Python-WebScraping/tree/master/webScraping_basics)
-  > - [] 프로젝트 | [pygame_project](https://github.com/pup-paw/Python-WebScraping/tree/master/webScraping_project)
+  > - [ ] 기본기 | [pygame_basics](https://github.com/pup-paw/Python-WebScraping/tree/master/webScraping_basics)
+  > - [ ] 프로젝트 | [pygame_project](https://github.com/pup-paw/Python-WebScraping/tree/master/webScraping_project)
 ### 🎖result🎖
   >
